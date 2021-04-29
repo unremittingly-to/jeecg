@@ -1,0 +1,14 @@
+${AnsiColor.BRIGHT_BLUE}
+                _  __   __   _____
+                 | | \ \ / /  / ____|
+                 | |  \ V /  | |
+             _   | |   > <   | |
+            | |__| |  / . \  | |____
+             \____/  /_/ \_\  \_____|
+            _|"""""|_| """ |_|"""""|_|"""""|
+            "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+
+${AnsiColor.BRIGHT_GREEN}
+Jeecg  Boot Version: 2.2.0
+Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
+${AnsiColor.BLACK}
